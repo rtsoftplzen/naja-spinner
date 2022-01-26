@@ -1,11 +1,15 @@
 {
-  "name": "naja-spinner",
-  "version": "1.0.0",
-  "description": "Loading indicators for Ajax reqeusts",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "RTsoft s.r.o.",
-  "license": "ISC"
-}
+    "name": "naja-spinner",
+    "version": "1.0.0",
+    "description": "Loading indicators for Ajax reqeusts",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "RTsoft s.r.o.",
+    "license": "ISC",
+    "dependencies": {
+      "naja": "^2.3.0"
+    }
+  }
+  
